@@ -18,6 +18,7 @@ In this course, You will practice more labs of MySQL. This will help you to mast
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [MySQL Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [MySQL Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
 
