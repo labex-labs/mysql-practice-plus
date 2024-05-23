@@ -11,8 +11,13 @@ In this course, You will practice more labs of MySQL. This will help you to mast
 
 ## Scenarios
 
-|   Index | Name                            | Difficulty   | URL                                                                        |
+|   Index | Name                            | Difficulty   | Practice                                                                   |
 |---------|---------------------------------|--------------|----------------------------------------------------------------------------|
 |       1 | 📖 Installation of MySQL         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178583'>Start Lab</a>       |
 |       2 | 🎯 Check the Maximum Value Again | ★☆☆          | <a target='_blank' href='https://labex.io/labs/262414'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
 
